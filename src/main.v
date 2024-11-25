@@ -17,6 +17,7 @@ fn main() {
 	println(add(1, 2))
 
 	out.print_some_thing()
+	out.i_dunno()
 
 }
 
